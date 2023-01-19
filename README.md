@@ -2,4 +2,4 @@
 
 My first repository on GitHub
 
-I like :electronic:, "3d printing:, :python:
+I like :electronic:, :3d printing:, :python:
