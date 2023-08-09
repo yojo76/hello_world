@@ -2,7 +2,7 @@
 
 My first repository on GitHub
 
-markdown formatting examples:
+markdown formatting examples
 
 Heading
 =======
